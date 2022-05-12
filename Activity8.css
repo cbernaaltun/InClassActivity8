@@ -1,0 +1,11 @@
+.form-style{
+    max-width: 500px;
+    padding: 20px 12px 10px 20px;
+    font: 13px Arial, Helvetica, sans-serif;
+  
+  }
+  
+  input:required:invalid, input:focus:invalid {
+    border: 1px solid red; 
+  }
+  
